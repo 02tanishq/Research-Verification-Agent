@@ -2,7 +2,7 @@
 
 > **5 AI Agents · LangGraph · Human-in-the-Loop · Fact-Checking · FastAPI · Groq Qwen 3.8 27B**
 
-**GitHub:** https://github.com/9bishal/Autonomous-Research-Verification-Agent-
+**GitHub:**(https://github.com/02tanishq/Research-Verification-Agent)-
 
 ---
 
@@ -69,7 +69,7 @@ Final Report + PDF Download + Fact-Check Score
 ## Quick Start
 
 ```bash
-git clone https://github.com/9bishal/Autonomous-Research-Verification-Agent-.git
+git clone https://github.com/02tanishq/Research-Verification-Agent.git
 cd Autonomous-Research-Verification-Agent-
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
