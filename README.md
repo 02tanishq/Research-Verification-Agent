@@ -2,7 +2,7 @@
 
 > **5 AI Agents · LangGraph · Human-in-the-Loop · Fact-Checking · FastAPI · Groq Qwen 3.8 27B**
 
-**GitHub:**(https://github.com/02tanishq/Research-Verification-Agent)-
+**GitHub:** https://github.com/02tanishq/Research-Verification-Agent
 
 ---
 
